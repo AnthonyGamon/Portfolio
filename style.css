@@ -1,0 +1,13 @@
+body {
+background-image: url(https://www.publicdomainpictures.net/pictures/40000/velka/black-polka-dot-background.jpg)
+
+
+}
+
+
+
+footer { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+  } 
