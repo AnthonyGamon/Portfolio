@@ -1,0 +1,29 @@
+ <!--Firstcard-->
+                <div class="card content-center" style="width: 18rem;">
+                   <a href="https://sethglenn.github.io/project1/"><img class="card-img-top" src="https://i.ibb.co/wNhrrjg/screenshot-1.jpg" alt="Card image cap"></a>
+                       <div class="card-body">
+                           <p class="card-text">Here is my first team project. We named this project "Travel Rock Europe" that would allow people to book flights and see pictures of the cities they are traveling to. </p>
+               </div>
+                       </div>
+                       <br>
+                       <br>
+                              <!--Second Card-->
+                              <div class="card justify-content-center" style="width: 18rem;">
+                               <a href="https://anthonygamon.github.io/05_Third_Party_APIs/"><img class="card-img-top" src="https://i.ibb.co/vHt5Ry0/Work-Day-Schedule.jpg" alt="Card image cap"></a>
+                                   <div class="card-body">
+                                        <p class="card-text">This is a work schedule I made. That as time goes it will change the color of the text fields depending if it is current, future or past. This would also save the users input to local storage.</p>
+                           </div>
+                                   </div>
+                                   <br>
+                                   <br>
+                                             <!--Third card-->
+                                             <div class="card" style="width: 18rem;">
+                                               <a href="https://anthonygamon.github.io/03_javascript1/"><img class="card-img-top" src="https://i.ibb.co/MZyQJ5m/Password-Generator.jpg" alt="Card image cap"></a>
+                                                   <div class="card-body">
+                                                        <p class="card-text">This is a password generator I made. The user is able to select how many characters they would like. They are also able to decide if they would like to have special characters, numbers, capital letters and lower case letters.  </p>
+                                           </div>
+                                                           </div>
+                                                           <br>
+                                                           <br>
+                                                                   
+                                                                           </div>
