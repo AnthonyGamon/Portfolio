@@ -19,4 +19,41 @@ footer {
       left: 0;
       min-height: 300px;
   }
+/*------------------
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  height: 80px;
+}
 
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  font-family: 'Bebas Neue', cursive;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 50px;
+  
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #da7b93;
+  color: black;
+  height: 100px;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: da7b93;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+/*------------------
