@@ -1,4 +1,4 @@
-body { background-color: rgb(27,51,51);
+body { background-color: #376e6f;
 }
 
 footer { 
@@ -19,10 +19,15 @@ footer {
       left: 0;
       min-height: 300px;
   }
-/*------------------
+
+
+
+
+
+  /*------------------
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #2F4454;
   overflow: hidden;
   height: 80px;
 }
@@ -56,4 +61,24 @@ footer {
 .topnav .icon {
   display: none;
 }
-/*------------------
+/*------------------ */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: #1c3334;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+h2{
+  font-family: 'Bebas Neue', cursive;
+}
+h4{
+  font-family: 'Bebas Neue', cursive;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+}
