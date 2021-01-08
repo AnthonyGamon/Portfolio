@@ -1,5 +1,6 @@
 Deployed page link below :
-https://anthonygamon.github.io/
+https://anthonygamon.github.io/Portfolio/
+
 
 
 
