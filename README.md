@@ -5,6 +5,7 @@
 ##### * [Link](#link)
 ##### * [Description](#description)
 ##### * [Visuals](#visuals)
+##### * [Tools](#tools)
 ##### * [Questions](#questions)
 
 ## Username
@@ -18,6 +19,9 @@ Here is my portfolio with a little bit about me, some of my favorite projects an
 
 ## Visuals
 ![screenshot (4)](https://user-images.githubusercontent.com/68041150/104074305-5f149380-51d5-11eb-9dc7-46cf95c55a27.jpeg)
+
+## Tools
+I used the following tools for this application : HTML and CSS. 
 
 ## Questions
 If you have any questions about this repo, open an issue or contact me directly at anthonygamon@icloud.com. 
