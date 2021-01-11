@@ -20,7 +20,13 @@ footer {
       min-height: 300px;
   }
 
-
+  .carousel-control-next-icon {
+    background-color: #da7b93;
+    
+}
+.carousel-control-prev-icon{
+  background-color: #da7b93;
+}
 
 
 
